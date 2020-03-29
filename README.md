@@ -2,6 +2,8 @@
 
 ## 简答题见：[简答题.md](https://github.com/gcgo/IPersistence/blob/master/简答题.md)
 
+## 笔记见：[笔记](https://github.com/gcgo/IPersistence/tree/master/笔记)
+
 ## 编程题：
 
 ORM框架工程：IPersistence
