@@ -1,6 +1,6 @@
 # 大作业：自定义ORM框架，通过mapper代理方式实现增删改查
 
-## 简答题见：[简答题.md]([https://github.com/gcgo/IPersistence/blob/master/%E7%AE%80%E7%AD%94%E9%A2%98.md](https://github.com/gcgo/IPersistence/blob/master/简答题.md))
+## 简答题见：[简答题.md](https://github.com/gcgo/IPersistence/blob/master/简答题.md)
 
 ## 编程题：
 
